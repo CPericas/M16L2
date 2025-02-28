@@ -35,11 +35,6 @@ Thumbs.db
 # Coverage reports
 coverage/
 
-# Testing
-*.test.js
-*.test.tsx
-*.test.ts
-
 # Generated files
 *.tsbuildinfo
 
